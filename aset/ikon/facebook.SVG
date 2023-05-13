@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720">
+	<title>facebook-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h720v720h-720z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffde00 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m720 362.2c0-200-161.2-362.2-360-362.2-198.8 0-360 162.2-360 362.2 0 180.8 131.6 330.6 303.8 357.8l-0.1-253.1h-91.4v-104.7h91.4v-79.8c0-90.7 53.8-140.9 136-140.9 39.4 0 80.6 7.1 80.6 7.1v89.1h-45.4c-44.7 0-58.7 27.9-58.7 56.6v67.9h99.9l-16 104.7h-83.9v253.1c172.2-27.2 303.8-177 303.8-357.8z"/>
+		</g>
+	</g>
+</svg>

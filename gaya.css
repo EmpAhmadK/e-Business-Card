@@ -85,13 +85,13 @@ a {
 /* لاتر */
 
 .latar-songket-sisir {
-	background-image: url(./aset/latar-songket-sisir.png);
+	background-image: url(./aset/latar-songket-sisir.webp);
 	background-position: right;
 	background-size: cover;
 }
 
 .latar-songket-isi {
-	background-image: url(./aset/latar-songket-isi.png);
+	background-image: url(./aset/latar-songket-isi.webp);
 	background-position: right;
 	background-size: cover;
 }

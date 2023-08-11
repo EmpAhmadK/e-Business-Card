@@ -140,13 +140,13 @@ a {
 	background-image: url("./aset/ikon/linkedin.SVG");
 }
 
-.pautan-twitter {
+.pautan-x {
 	display: inline-block;
 	padding-left: 1.8em;
 	list-style: none;
 }
 
-.pautan-twitter:before {
+.pautan-x:before {
 	content:"";
 	height:1.5em;
 	width:1.5em;
@@ -157,7 +157,7 @@ a {
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:100%;
-	background-image: url("./aset/ikon/twitter.SVG");
+	background-image: url("./aset/ikon/x.SVG");
 }
 
 .pautan-instagram {
